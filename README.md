@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daavje" alt="daavje" /></a> </p>
 
-- 🔭 I’m currently working on [HWC-Extensie](https://github.com/Daavje/HWC-Extensie)
+- 🔭 I’m currently working on a new secret project!!!
 
 - 🌱 I’m currently learning **More about computers**
 

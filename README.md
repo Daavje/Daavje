@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daavje" alt="daavje" /></a> </p>
 
-- 🔭 I’m currently working on [**RoosterSync**](https://github.com/Daavje/RoosterSync)
+- 🔭 I’m currently working on [**Zenda**](https://github.com/Daavje/Zenda)
 
 - 🌱 I’m currently learning **More about computers**
 

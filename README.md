@@ -18,7 +18,7 @@ I like building practical tools, browser extensions, web apps, and self-hosted p
 | --- | --- |
 | 📅 **[Zenda](https://github.com/Daavje/zenda)** | A free, self-hosted family calendar with a Dutch interface. |
 | 🗓️ **[RoosterSync](https://github.com/Daavje/RoosterSync)** | A browser extension that displays a schedule synced from an Outlook calendar. |
-| 🏫 **[HWC-Extensie](https://github.com/Daavje/HWC-Extensie)** | A custom browser start page with useful shortcuts for HWC students. |
+| 🏫 **[HWC-Extensie](https://github.com/Daavje/HWC-Extensie)** | A custom browser start page with useful shortcuts for HWC students. NEW RELEASE!!! |
 | 🧩 **[Het Wakken Spel](https://github.com/Daavje/Het-Wakken-Spel)** | A brain-teasing puzzle game. |
 
 ### 🛠️ Languages & tools
